@@ -53,7 +53,7 @@ _Tecnologías_: Python, SQL
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7  
+- 💼 LinkedIn: www.linkedin.com/in/luzelenacifuentes 
 - ✉️ Email: luz.cifuentes.col@outlook.com  
 
 ---
